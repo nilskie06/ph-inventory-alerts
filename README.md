@@ -1,17 +1,17 @@
-# @phitdev/inventory-alerts
+# @ph-itdev/inventory-alerts
 
 Inventory stock level monitoring and alert system for warehouse management. Track stock levels, get alerts for low/out-of-stock items, and manage inventory efficiently.
 
 ## Installation
 
 ```bash
-npm install @phitdev/inventory-alerts
+npm install @ph-itdev/inventory-alerts
 ```
 
 ## Quick Start
 
 ```typescript
-import { InventoryMonitor, InventoryItem, AlertSeverity } from '@phitdev/inventory-alerts';
+import { InventoryMonitor, InventoryItem, AlertSeverity } from '@ph-itdev/inventory-alerts';
 
 // Create a monitor
 const monitor = new InventoryMonitor({
