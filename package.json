@@ -1,7 +1,7 @@
 {
   "name": "@ph-itdev/inventory-alerts",
-  "version": "1.0.1",
-  "description": "Inventory stock level monitoring and alert system for warehouse management",
+  "version": "1.0.3",
+  "description": "Inventory stock level monitoring and alert system for warehouse management - track stock levels, get alerts for low/out-of-stock items, and manage inventory efficiently",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,17 +10,6 @@
     "test:watch": "vitest",
     "prepublishOnly": "npm run build"
   },
-  "keywords": [
-    "inventory",
-    "warehouse",
-    "stock",
-    "alerts",
-    "logistics",
-    "supply-chain",
-    "monitoring",
-    "reorder",
-    "typescript"
-  ],
   "author": "nilskie06",
   "license": "MIT",
   "devDependencies": {
@@ -35,5 +24,24 @@
   ],
   "engines": {
     "node": ">=16.0.0"
-  }
+  },
+  "repository": {
+    "url": "https://github.com/nilskie06/ph-inventory-alerts.git"
+  },
+  "homepage": "https://github.com/nilskie06/ph-inventory-alerts#readme",
+  "bugs": {
+    "url": "https://github.com/nilskie06/ph-inventory-alerts/issues"
+  },
+  "keywords": [
+    "inventory",
+    "warehouse",
+    "stock",
+    "alerts",
+    "logistics",
+    "supply-chain",
+    "monitoring",
+    "reorder",
+    "typescript",
+    "ph-itdev"
+  ]
 }
