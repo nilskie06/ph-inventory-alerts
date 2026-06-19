@@ -1,5 +1,5 @@
 {
-  "name": "ph-inventory-alerts",
+  "name": "@phitdev/inventory-alerts",
   "version": "1.0.0",
   "description": "Inventory stock level monitoring and alert system for warehouse management",
   "main": "dist/index.js",
