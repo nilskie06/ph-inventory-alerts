@@ -1,6 +1,6 @@
 {
   "name": "@ph-itdev/inventory-alerts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Inventory stock level monitoring and alert system for warehouse management - track stock levels, get alerts for low/out-of-stock items, and manage inventory efficiently",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
